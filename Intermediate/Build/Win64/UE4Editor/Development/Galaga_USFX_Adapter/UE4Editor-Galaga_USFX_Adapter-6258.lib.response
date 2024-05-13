@@ -1,0 +1,23 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Galaga_USFX_Adapter-6258.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\manjo\Desktop\GALAGA FINAL\Galaga_USFX_Adapter\Intermediate\Build\Win64\Galaga_USFX_AdapterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\manjo\Desktop\GALAGA FINAL\Galaga_USFX_Adapter\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_Adapter\BallAdapter.cpp.obj"
+"C:\Users\manjo\Desktop\GALAGA FINAL\Galaga_USFX_Adapter\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_Adapter\Bounce_Ball.cpp.obj"
+"C:\Users\manjo\Desktop\GALAGA FINAL\Galaga_USFX_Adapter\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_Adapter\Galaga_USFX_Adapter.cpp.obj"
+"C:\Users\manjo\Desktop\GALAGA FINAL\Galaga_USFX_Adapter\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_Adapter\Galaga_USFX_AdapterGameMode.cpp.obj"
+"C:\Users\manjo\Desktop\GALAGA FINAL\Galaga_USFX_Adapter\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_Adapter\Galaga_USFX_AdapterPawn.cpp.obj"
+"C:\Users\manjo\Desktop\GALAGA FINAL\Galaga_USFX_Adapter\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_Adapter\Galaga_USFX_AdapterProjectile.cpp.obj"
+"C:\Users\manjo\Desktop\GALAGA FINAL\Galaga_USFX_Adapter\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_Adapter\BallAdapter.gen.cpp.obj"
+"C:\Users\manjo\Desktop\GALAGA FINAL\Galaga_USFX_Adapter\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_Adapter\Bounce_Ball.gen.cpp.obj"
+"C:\Users\manjo\Desktop\GALAGA FINAL\Galaga_USFX_Adapter\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_Adapter\Galaga_USFX_Adapter.init.gen.cpp.obj"
+"C:\Users\manjo\Desktop\GALAGA FINAL\Galaga_USFX_Adapter\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_Adapter\Galaga_USFX_AdapterGameMode.gen.cpp.obj"
+"C:\Users\manjo\Desktop\GALAGA FINAL\Galaga_USFX_Adapter\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_Adapter\Galaga_USFX_AdapterPawn.gen.cpp.obj"
+"C:\Users\manjo\Desktop\GALAGA FINAL\Galaga_USFX_Adapter\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_Adapter\Galaga_USFX_AdapterProjectile.gen.cpp.obj"
+"C:\Users\manjo\Desktop\GALAGA FINAL\Galaga_USFX_Adapter\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_Adapter\Default.rc2.res"
+/OUT:"C:\Users\manjo\Desktop\GALAGA FINAL\Galaga_USFX_Adapter\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_Adapter\UE4Editor-Galaga_USFX_Adapter-6258.lib"

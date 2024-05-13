@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Galaga_USFX_Adapter.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{24105ADE-40E5-4DBD-B9D0-065E09BD66A5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Galaga_USFX_Adapter.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Galaga_USFX_AdapterEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{8B4C5CCE-6D1D-4236-8EE7-BBE2F66C902E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Galaga_USFX_Adapter">
+      <UniqueIdentifier>{FEF6A36B-3D98-4D69-A3BD-BFE3A700724E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Galaga_USFX_Adapter\AdaptadorExtranjero.cpp">
+      <Filter>Source\Galaga_USFX_Adapter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Galaga_USFX_Adapter\AdaptadorExtranjero.h">
+      <Filter>Source\Galaga_USFX_Adapter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Galaga_USFX_Adapter\Ball.cpp">
+      <Filter>Source\Galaga_USFX_Adapter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Galaga_USFX_Adapter\Ball.h">
+      <Filter>Source\Galaga_USFX_Adapter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Galaga_USFX_Adapter\BallAdapter.cpp">
+      <Filter>Source\Galaga_USFX_Adapter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Galaga_USFX_Adapter\BallAdapter.h">
+      <Filter>Source\Galaga_USFX_Adapter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Galaga_USFX_Adapter\Bounce_Ball.cpp">
+      <Filter>Source\Galaga_USFX_Adapter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Galaga_USFX_Adapter\Bounce_Ball.h">
+      <Filter>Source\Galaga_USFX_Adapter</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Galaga_USFX_Adapter\Galaga_USFX_Adapter.Build.cs">
+      <Filter>Source\Galaga_USFX_Adapter</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Galaga_USFX_Adapter\Galaga_USFX_Adapter.cpp">
+      <Filter>Source\Galaga_USFX_Adapter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Galaga_USFX_Adapter\Galaga_USFX_Adapter.h">
+      <Filter>Source\Galaga_USFX_Adapter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Galaga_USFX_Adapter\Galaga_USFX_AdapterGameMode.cpp">
+      <Filter>Source\Galaga_USFX_Adapter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Galaga_USFX_Adapter\Galaga_USFX_AdapterGameMode.h">
+      <Filter>Source\Galaga_USFX_Adapter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Galaga_USFX_Adapter\Galaga_USFX_AdapterPawn.cpp">
+      <Filter>Source\Galaga_USFX_Adapter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Galaga_USFX_Adapter\Galaga_USFX_AdapterPawn.h">
+      <Filter>Source\Galaga_USFX_Adapter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Galaga_USFX_Adapter\Galaga_USFX_AdapterProjectile.cpp">
+      <Filter>Source\Galaga_USFX_Adapter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Galaga_USFX_Adapter\Galaga_USFX_AdapterProjectile.h">
+      <Filter>Source\Galaga_USFX_Adapter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Galaga_USFX_Adapter\NaveEnemiga.cpp">
+      <Filter>Source\Galaga_USFX_Adapter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Galaga_USFX_Adapter\NaveEnemiga.h">
+      <Filter>Source\Galaga_USFX_Adapter</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

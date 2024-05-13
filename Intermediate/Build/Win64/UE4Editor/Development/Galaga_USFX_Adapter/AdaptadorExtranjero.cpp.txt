@@ -1,0 +1,7 @@
+C:\Users\manjo\Desktop\GALAGA FINAL\Galaga_USFX_Adapter\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_Adapter\Definitions.Galaga_USFX_Adapter.h
+C:\Users\manjo\Desktop\GALAGA FINAL\Galaga_USFX_Adapter\Source\Galaga_USFX_Adapter\AdaptadorExtranjero.h
+C:\Users\manjo\Desktop\GALAGA FINAL\Galaga_USFX_Adapter\Source\Galaga_USFX_Adapter\Bounce_Ball.h
+C:\Users\manjo\Desktop\GALAGA FINAL\Galaga_USFX_Adapter\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_Adapter\Bounce_Ball.generated.h
+C:\Users\manjo\Desktop\GALAGA FINAL\Galaga_USFX_Adapter\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_Adapter\AdaptadorExtranjero.generated.h
+C:\Users\manjo\Desktop\GALAGA FINAL\Galaga_USFX_Adapter\Source\Galaga_USFX_Adapter\Ball.h
+C:\Users\manjo\Desktop\GALAGA FINAL\Galaga_USFX_Adapter\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_Adapter\Ball.generated.h
